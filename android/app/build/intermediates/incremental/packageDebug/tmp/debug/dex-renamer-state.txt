@@ -1,0 +1,4 @@
+#Mon Dec 27 17:04:27 GMT-03:00 2021
+base.0=C\:\\Users\\Usuario\\Documents\\apps\\iShow-RN\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
